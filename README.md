@@ -1,4 +1,4 @@
-# feature_selection_framework_code
+# Feature Select - Framework Code
 
 Repo contains code used to generate the results and figures for the manuscript to JBO.
 
