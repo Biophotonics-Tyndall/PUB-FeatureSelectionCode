@@ -1,6 +1,7 @@
 # Feature Selection - Framework Code
 
 [![Python 3.9](https://img.shields.io/badge/python-3.9-blue)](https://www.python.org/downloads/release/python-390/)
+[![DOI](https://zenodo.org/badge/590997289.svg)](https://zenodo.org/badge/latestdoi/590997289)
 
 Repo contains code used to generate the results and figures for the manuscript to JBO.
 
